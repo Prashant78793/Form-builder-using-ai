@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
     title: "Make Your Form",
-    description: "An AI form Builder",
+    description: " form Builder with AI",
 };
 
 export default function RootLayout({
