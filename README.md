@@ -62,7 +62,7 @@ This project focuses on **clean UI, reusable components, and scalability**, maki
 ## 🚀 Getting Started
 
 ### 📌 Clone the Repository
-git clone https://github.com/Shlokgupta0512/Form-Scratch.git
+git clone https://github.com/Prashant78793/Form-builder-using-ai.git
 cd Form-Scratch
 📦 Install Dependencies
 npm install
@@ -137,8 +137,8 @@ If you like this project, don’t forget to ⭐ star the repo!
 
 👨‍💻 Author
 
-Shlok Gupta
-Aspiring Software Engineer | Frontend Developer
+Prashant Kumar
+Aspiring Software Engineer | Full-Stack  Developer
 
 
 
